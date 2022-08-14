@@ -1,0 +1,14 @@
+.video_detail--custom {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.video_detail--custom__child-1 {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.tm-btn-big {
+    padding: 12px 60px 14px;
+}
