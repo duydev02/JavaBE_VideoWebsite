@@ -2,7 +2,8 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://java.sun.com/xml/ns/javaee"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-	version="3.0">
+	version="3.0"
+	metadata-complete="false">
 	<display-name>Assignment</display-name>
 
 	<session-config>
@@ -27,7 +28,7 @@
 
 	<context-param>
 		<param-name>pass</param-name>
-		<param-value>NhinCaiLon7</param-value>
+		<param-value>nhinfcais</param-value>
 	</context-param>
 
 	<welcome-file-list>

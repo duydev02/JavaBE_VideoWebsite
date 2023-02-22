@@ -16,7 +16,7 @@ public class EmailServiceImpl implements EmailService {
 		String host = context.getInitParameter("host");
 		String port = context.getInitParameter("port");
 		String user = context.getInitParameter("user");
-		String pass = context.getInitParameter("pass");
+		String pass = context.getInitParameter("pass") + "loonf7;";
 
 		try {
 			String content = null;
